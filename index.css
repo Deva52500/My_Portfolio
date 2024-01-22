@@ -11,12 +11,6 @@
     font-size: x-large; 
 }
 
-.card {
-    min-height: 260px;
-    min-width: 400px;
-}
-
-
 .home{
     padding: 200px;
     display:flex;
@@ -47,6 +41,14 @@
     padding: 15px;
 }
 
+.demo_projects{
+   padding: 10px;
+}
+
+.card {
+    min-height: 260px;
+    min-width: 400px;
+}
 
 
 .about{
