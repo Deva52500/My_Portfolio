@@ -58,16 +58,13 @@
     flex-basis: 600px;
     align-items: center;
     justify-content: center;
-    padding: 15px;
-
 }
-
-.contact{
-    display: flex;
-    flex-direction: column;
-    flex-basis: 400px;  
+  
+.aboutPara{
+    padding: 0px 150px 0px 150px;
     align-items: center;
-    justify-content: center;  
+    justify-content: center;
+
 }
 
 .footer{
